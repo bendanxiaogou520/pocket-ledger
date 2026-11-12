@@ -1,13 +1,13 @@
 <div align="center">
 
-# 玽记 · Gouji
+# Pocket Ledger
 
-**一个只存在你手机里的记账本**
-*A ledger that never leaves your phone.*
+**A ledger that never leaves your phone.**
+**一个只存在你手机里的记账本。**
 
 [中文](#中文) · [English](#english)
 
-[**⬇ 下载最新版 / Download**](https://github.com/bendanxiaogou520/gouji/releases/latest/download/gouji.apk)
+[**⬇ 下载最新版 / Download**](https://github.com/bendanxiaogou520/pocket-ledger/releases/latest/download/pocket-ledger.apk)
 
 </div>
 
@@ -19,7 +19,7 @@
 
 市面上的记账 App 都要注册、要联网、要会员，还要把账目传到别人服务器上。
 
-玽记反着来：**没有账号，没有网络权限，数据只写在手机本地**。卸载就等于全清，所以它自带导出备份。
+Pocket Ledger 反着来：**没有账号，没有网络权限，数据只写在手机本地**。卸载就等于全清，所以它自带导出备份。
 
 ### 功能
 
@@ -46,6 +46,8 @@
 | --- | --- | --- |
 | **v1.47** | 2026-11-12 | 液态玻璃界面、账目概览（最新） |
 
+> 原名「玽记」，取自作者网名。仓库用了通用名方便检索；**App 内部名字没改，装完后手机图标上仍显示「玽记」**。备份目录也仍叫 `Documents/玽记/`（老数据的路径不能动，动了 App 会找不到旧账）。
+
 ---
 
 ## English
@@ -54,7 +56,7 @@
 
 Every expense app wants an account, a subscription, and your data on their server.
 
-Gouji does the opposite: **no account, no network permission, everything stays in local storage.** Uninstalling wipes it, so one-tap JSON export is built in.
+Pocket Ledger does the opposite: **no account, no network permission, everything stays in local storage.** Uninstalling wipes it, so one-tap JSON export is built in.
 
 ### Features
 
@@ -81,4 +83,4 @@ Gouji does the opposite: **no account, no network permission, everything stays i
 | --- | --- | --- |
 | **v1.47** | 2026-11-12 | Liquid Glass UI, account overview (latest) |
 
-<sub>作者 / Author: 笨蛋小玽 · 自用工具，顺手公开 / A personal tool, published on a whim</sub>
+<sub>Formerly 玽记, named after the author's handle. The backup folder keeps its old name so existing data stays findable.</sub>
